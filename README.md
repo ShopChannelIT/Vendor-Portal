@@ -1,6 +1,6 @@
 # ベンダーポータル WEBマニュアル
 
-## 利用準備作業 
+## １．利用準備作業 
 
 #### [ベンダーポータルとは？](Security/Secure-AzureAD.md)
 
@@ -12,13 +12,13 @@
 
 #### [・・・・](Security/Block-Legacy-Auth.md)  
 
-## アプリを利用しよう
+## ２．アプリを利用しよう
 
 #### [進捗管理アプリ](ADFS/Goodbye-ADFS.md)
 
 #### [チケット管理アプリ](ADFS/ADFS-Config-Dump.md)
 
 
-## その他
+## ９．その他
 
 #### [JSC問合せ先](Tools/Powershell-Setup.md)
