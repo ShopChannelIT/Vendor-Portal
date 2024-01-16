@@ -1,4 +1,4 @@
-# Vender-Portal webマニュアル
+# Vendor-Portal webマニュアル
 
 ## -.利用にあたり
 
