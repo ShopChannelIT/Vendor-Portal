@@ -6,7 +6,7 @@
 
 #### [アカウント登録](Security/Secure-AzureAD.md)
 
-#### [初回ログインしパスワード変更しよう](Security/Discover-vulnerability.md) 
+#### [初回ログインしパスワード変更しよう](https://github.com/ShopChannelIT/Vendor-Portal/blob/main/Login) 
 
 #### [・・・・](Security/Service-Account-Best-Practice.md)
 
