@@ -1,4 +1,4 @@
-# Vonder-Portal webマニュアル
+# Vender-Portal webマニュアル
 
 ## -.利用にあたり
 
