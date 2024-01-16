@@ -2,7 +2,7 @@
 
 ## １．利用準備作業 
 
-#### [ベンダーポータルとは？](Security/Secure-AzureAD.md)
+#### [ベンダーポータルとは？](https://github.com/ShopChannelIT/Vendor-Portal/blob/main/%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%81%A8%E3%81%AF%EF%BC%9F.md)
 
 #### [アカウント登録](Security/Secure-AzureAD.md)
 
