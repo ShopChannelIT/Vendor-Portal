@@ -20,12 +20,5 @@
 
 
 ## その他
-<!--##
-#### [オンプレADを無くしたい](Hybrid/Goodbye-ADDS.md)
--->
 
 #### [JSC問合せ先](Tools/Powershell-Setup.md)
-
-#### [FiddlerでiOS/AndroidのHTTP/Sトレースを取得する](Tools/Fiddler-Mobile.md)
-
-<!-- WIP #### [SSOのデバッグ](SSO-Debug.md) -->
