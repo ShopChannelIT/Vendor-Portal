@@ -25,4 +25,4 @@
 
 ## ９．システム仕様
 
-#### [データ連携](Tools/Powershell-Setup.md)
+#### [データ連携](https://github.com/ShopChannelIT/Vendor-Portal/blob/main/9.%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BB%95%E6%A7%98.md)
