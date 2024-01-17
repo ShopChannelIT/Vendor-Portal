@@ -18,7 +18,11 @@
 
 #### [チケット管理アプリ](ADFS/ADFS-Config-Dump.md)
 
-
-## ９．その他
+## ８．問合せ・他
 
 #### [JSC問合せ先](Tools/Powershell-Setup.md)
+
+
+## ９．システム仕様
+
+#### [データ連携](Tools/Powershell-Setup.md)
