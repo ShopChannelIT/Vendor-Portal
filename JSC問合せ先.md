@@ -2,11 +2,11 @@
 
 ## メール 
 
--[ジュエリー関連](nakahara-l@shopchannel.co.jp)
--[ホーム関連](nakahara-l@shopchannel.co.jp)
--[アパレル関連](nakahara-l@shopchannel.co.jp)
--[ｘｘｘｘ関連](nakahara-l@shopchannel.co.jp)
--[食品関連](nakahara-l@shopchannel.co.jp)
+#### ジュエリー関連 nakahara-l@shopchannel.co.jp
+#### ホーム関連 nakahara-l@shopchannel.co.jp
+#### アパレル関連 nakahara-l@shopchannel.co.jp
+#### ｘｘｘｘ関連 nakahara-l@shopchannel.co.jp
+#### 食品関連 nakahara-l@shopchannel.co.jp
 
 ## ベンダーポータルチャット 
 
