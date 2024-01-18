@@ -20,7 +20,7 @@
 
 ## ８．問合せ・他
 
-#### [JSC問合せ先](Tools/Powershell-Setup.md)
+#### [JSC問合せ先](https://github.com/ShopChannelIT/Vendor-Portal/blob/main/JSC%E5%95%8F%E5%90%88%E3%81%9B%E5%85%88.md)
 
 
 ## ９．システム仕様
